@@ -1064,7 +1064,7 @@ nav.navbar {
 	3.1. Banner
 -------------------------------*/
 .banner-section {
-  background-image: url("../images/banner-image.jpg");
+  background-image: url("../images/banner.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3972,7 +3972,7 @@ table.info-tabel tr td {
 	19. Compare-Page
 ================================*/
 .compare_page {
-	background-image:url(../images/compare-page-header-img.jpg);
+	background-image:url("../images/compare-page-header-img.jpg");
 }
 .compare_info table td, .compare_info table th {
 	font-size:16px;
@@ -4125,7 +4125,7 @@ table.info-tabel tr td {
 	20. Coming-Soon-Page
 ================================*/
 .coming_soon_bg {
-	background-image:url(../images/coming_soon_bg.jpg);
+	background-image:url("../images/coming_soon_bg.jpg");
 	background-repeat:no-repeat;
 	background-size:cover;
 	position:relative;

@@ -4,7 +4,7 @@ include('includes/format_rupiah.php');
 include('includes/library.php');
 $kode=$_GET['kode'];
 $sql1 	= "SELECT booking.*,mobil.*, merek.*, users.* FROM booking,mobil,merek,users WHERE booking.id_mobil=mobil.id_mobil 
-			AND merek.id_merek=mobil.id_merek and booking.email=users.email and booking.kode_booking='$kode'";
+			AND merek.id_merek=mobil.id_merek and booking.email=users.email and booking.kode_booking='$kode' ";
 $query1 = mysqli_query($koneksidb,$sql1);
 $result = mysqli_fetch_array($query1);
 $harga	= $result['harga'];
