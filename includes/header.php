@@ -11,11 +11,11 @@
             <div class="header_widgets">
               <div class="circle_icon"> <i class="fa fa-envelope" aria-hidden="true"></i> </div>
               <p class="uppercase_text">For Support Mail us : </p>
-              <a href="mailto:info@example.com">cekkeren@gmail.com</a> </div>
+              <a href="mailto:info@example.com">cekkerencompany@gmail.com</a> </div>
             <div class="header_widgets">
               <div class="circle_icon"> <i class="fa fa-phone" aria-hidden="true"></i> </div>
               <p class="uppercase_text">For Services Call Us: </p>
-              <a href="tel:61-1234-5678-09">+62-877-8643-1331</a> </div>
+              <a href="tel:62-878-5104-00172">+62-878-5104-0172</a> </div>
             <!-- <div class="social-follow">
               <ul>
                 <li><a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
