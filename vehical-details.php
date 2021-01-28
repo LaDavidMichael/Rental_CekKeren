@@ -293,7 +293,7 @@ while($result = mysqli_fetch_array($query))
       <aside class="col-md-3">
 
 	  <div class="share_vehicle">
-          <p>Share: <a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-twitter-square" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a> </p>
+          <p>Share: <a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a> <a href="https://www.instagram.com/cekkerencompany/"><i class="fa fa-instagram" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a> <a href="mailto:?subject=I wanted you to see this site&amp;body=Check out this site http://www.cekkeren.com."><i class="fa fa-envelope-o" aria-hidden="true"></i></a> </p>
         </div>
         <div class="sidebar_widget">
           <div class="widget_heading">
